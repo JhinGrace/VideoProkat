@@ -1,0 +1,12 @@
+D:\mi\Projects\VS\VideoProkat\VideoProkat\bin\Debug\VideoProkat.exe.config
+D:\mi\Projects\VS\VideoProkat\VideoProkat\bin\Debug\VideoProkat.exe
+D:\mi\Projects\VS\VideoProkat\VideoProkat\bin\Debug\VideoProkat.pdb
+D:\mi\Projects\VS\VideoProkat\VideoProkat\obj\Debug\VideoProkat.csprojAssemblyReference.cache
+D:\mi\Projects\VS\VideoProkat\VideoProkat\obj\Debug\VideoProkat.Properties.Resources.resources
+D:\mi\Projects\VS\VideoProkat\VideoProkat\obj\Debug\VideoProkat.csproj.GenerateResource.cache
+D:\mi\Projects\VS\VideoProkat\VideoProkat\obj\Debug\VideoProkat.csproj.CoreCompileInputs.cache
+D:\mi\Projects\VS\VideoProkat\VideoProkat\obj\Debug\VideoProkat.exe
+D:\mi\Projects\VS\VideoProkat\VideoProkat\obj\Debug\VideoProkat.pdb
+D:\mi\Projects\VS\VideoProkat\VideoProkat\obj\Debug\VideoProkat.Form1.resources
+D:\mi\Projects\VS\VideoProkat\VideoProkat\bin\Debug\vpdb.mdf
+D:\mi\Projects\VS\VideoProkat\VideoProkat\bin\Debug\vpdb_log.ldf
